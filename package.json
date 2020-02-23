@@ -1,0 +1,23 @@
+{
+  "name": "Ideabook",
+  "version": "1.0.0",
+  "description": "自动化构建作业，金庸小说",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxinxin0043/Ideabook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxinxin0043/Ideabook/issues"
+  },
+  "homepage": "https://github.com/liuxinxin0043/Ideabook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
